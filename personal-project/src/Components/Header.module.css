@@ -1,0 +1,19 @@
+.header {
+    max-width: 126rem;
+    margin: 3rem auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav ul {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.nav ul li a {
+    padding: 1rem;
+    color: var(--branco);
+    font-size: 1.8rem;
+}
