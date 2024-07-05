@@ -36,3 +36,10 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.subtitulo {
+  font-size: 8rem;
+  font-family: var(--type-first);
+  line-height: 1;
+  text-transform: uppercase;
+}
