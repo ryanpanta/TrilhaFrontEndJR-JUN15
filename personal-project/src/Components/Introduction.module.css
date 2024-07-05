@@ -1,0 +1,26 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10rem;
+    align-items: center;
+    max-width: 126rem;
+    margin: 5rem auto;
+}
+
+.conteudo p {
+    color: var(--branco);
+    font-size: 3.8rem;
+    line-height: 1;
+    margin-bottom: 2rem;
+}
+
+.conteudo h1 {
+    color: var(--vermelho);
+    font-family: var(--type-first);
+    font-size: 7rem;
+    line-height: 1;
+}
+
+.foto img {
+    object-fit: cover;
+}
