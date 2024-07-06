@@ -3,14 +3,18 @@
     margin: 0 auto;
     padding: 3rem 2rem;
     display: flex;
+    
     justify-content: space-between;
     align-items: center;
+    
 }
 
 .nav ul {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
-    gap: 1rem;
+    gap: 3rem 1rem;
 }
 
 .nav ul li a {

@@ -11,16 +11,16 @@ function Techs() {
                 Tecnologias
             </h2>
             <div className={styles.conteudo}>
-                <p>Desenvolvo pequenos projetos pessoais como Desenvolvedor Front-end e, como bolsista de iniciação científica, trabalho com a bibilioteca React.js. </p>
+                <p>Desenvolvo pequenos projetos pessoais como <strong>Desenvolvedor Front-end</strong> e, como bolsista de iniciação científica, trabalho com a bibilioteca <strong>React.js</strong>. </p>
                 <div className={styles.icones}>
                     <div>
                         <img src={JavaScript} alt="Logotipo do JavaScript" />
                     </div>
                     <div>
-                        <img src={TypeScript} alt="" />
+                        <img src={TypeScript} alt="Logotipo do TypeScript" />
                     </div>
                     <div>
-                        <img src={ReactJS} alt="" />
+                        <img src={ReactJS} alt="Logotipo do React" />
                     </div>
                 </div>
             </div>

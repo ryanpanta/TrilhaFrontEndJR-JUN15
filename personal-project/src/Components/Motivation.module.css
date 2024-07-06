@@ -23,7 +23,8 @@
     .subtitulo {
         text-align: center;
         word-break: normal;
-        font-size: 6rem;
+        font-size: 4rem;
+        max-width: 100%;
     }
     .container {
         grid-template-columns: 1fr;
