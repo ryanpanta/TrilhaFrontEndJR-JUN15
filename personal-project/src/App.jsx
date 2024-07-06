@@ -3,6 +3,7 @@ import About from "./Components/About";
 import Header from "./Components/Header";
 import Hobbies from "./Components/Hobbies";
 import Introduction from "./Components/Introduction";
+import Motivation from "./Components/Motivation";
 
 function App() {
     return (
@@ -13,6 +14,7 @@ function App() {
             
             <About />
             <Hobbies />
+            <Motivation />
         </>
     );
 }
